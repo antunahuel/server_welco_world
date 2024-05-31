@@ -1,0 +1,20 @@
+{
+  "name": "server_welcom_world",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "moment": "^2.30.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.2"
+  }
+}
